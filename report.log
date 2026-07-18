@@ -1,0 +1,25 @@
+
+SERVER ANALISES 2026-07-16 Thursday
+----------------------
+Top 10 IPs accessing:
+Rank   count  ip
+1      5      192.168.1.1
+2      2      192.168.1.2
+3      1      192.168.1.5
+4      1      192.168.1.4
+5      1      192.168.1.3
+
+Top 10 requested URLs:
+Rank   Count  URL    
+1      4      /index.html
+2      2      /admin
+3      1      /shell.php
+4      1      /login
+5      1      /contact
+6      1      /about.html
+HTTP Response Code: 
+OK [200]        : 1 
+Not Found [404] : 1 
+Forbidden [403] : 1 
+Server Err [500]: 1 
+-------------------------------------------
